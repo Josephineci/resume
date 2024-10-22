@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josephine Zola DevOps</title>
+</head>
+<body>
+
+<h1>Josephine Zola</h1>
+<p>
+    <a href="mailto:cindiajosephine@gmail.com">cindiajosephine@gmail.com</a> | 
+    <a href="https://www.linkedin.com/in/josephinezola/" target="_blank">LinkedIn Profile</a>
+</p>
+<p>Open to Relocate/Remote/Hybrid/Contract work</p>
+
+<h2>PROFESSIONAL SUMMARY</h2>
+<p>Growing up in a TV-free household, I developed a love for puzzles, sparking my interest in automation and security. This led me to embark on self-financed learning journeys, such as becoming a System Administrator whilst being a full-time student, transitioning to a role as Junior DevOps Engineer to today as a Kubernetes Administrator working on projects that are the intersection of AI and software engineering.</p>
+
+<p>A proactive, analytical, and versatile professional with diverse experience brainstorming and developing solutions for complex business problems in a variety of industries and domains.</p>
+
+<p>I’m a team player. I value building solid and honest relationships with clients and colleagues at all levels of organizations.</p>
+
+<h2>EXPERIENCE</h2>
+
+<h3>Platform Engineer, Sigma Financial AI</h3>
+<p><i>Aug 2023 – May 2024</i></p>
+<ul>
+    <li>Designed and maintained CI/CD pipelines to automate the build, test, and deployment processes with Github CI.</li>
+    <li>Developed metrics and maintained monitoring and observability solutions using tools like Datadog.</li>
+    <li>Inspected and built Kubernetes clusters improving system reliability/security by 90%.</li>
+    <li>Integrated Helm charts for the definition of Kubernetes resources.</li>
+    <li>Built dedicated Rust Docker Files for increased security and code quality.</li>
+    <li>Led the successful migration for 110+ servers from on-premises to AWS (EC2 & RDS) cloud-based infrastructure, reducing operational costs by 30%.</li>
+    <li>Configured and troubleshooted Kubernetes CNI plugin-related failures.</li>
+    <li>Monitored and troubleshooted pipeline failures, health, and states of services and applications (Kubernetes pods/containers) across different environments, ensuring minimal downtime.</li>
+</ul>
+
+<h3>Jr DevOps Engineer, Unisys</h3>
+<p><i>Feb 2020 – May 2022</i></p>
+<ul>
+    <li>Identified and eliminated manual, repetitive tasks through automation, developed Python scripts, and used Terraform to automate infrastructure management, configuration, and maintenance.</li>
+    <li>Built DevOps pipeline with Jenkins and Github CI.</li>
+    <li>Created network policies to control pod communication with various network entities.</li>
+    <li>Improved build speed by 40% by implementing AWS ECR Pull-through Cache.</li>
+    <li>Built Lambda functions to create alerts integrated with Github webhook.</li>
+    <li>Built application performance monitoring and alerting dashboards on Datadog, resolving over 100 system issues.</li>
+    <li>Automated the provisioning of AWS compute services (EC2, ECS) using Terraform, resulting in a 30% increase in system efficiency.</li>
+</ul>
+
+<h3>System Administrator, Howard University</h3>
+<p><i>Mar 2018 – Mar 2019</i></p>
+<ul>
+    <li>Collaborated with developers to establish practices for deploying and managing apps using containerization tech like Docker and Nomad for reliable and scalable app deployment.</li>
+    <li>Created bash scripts and helm charts for automated provisioning of Kubernetes resources.</li>
+    <li>Managed Kubernetes clusters/EKS to optimize scalability and availability.</li>
+    <li>Monitored user accounts and modified user permissions in IAM Roles to improve security.</li>
+    <li>Maintained detailed documentation of infrastructure and configurations.</li>
+    <li>Troubleshooted, diagnosed, and remediated technical issues (system downtime, network failures, latency issues, build errors).</li>
+</ul>
+
+<h2>EDUCATION</h2>
+<ul>
+    <li>Master’s Degree, Information Technology & Project Management, University of Maryland – <i>August 2023</i></li>
+    <li>Bachelor’s Degree, Human Health and Performance, Howard University – <i>May 2020</i></li>
+    <li>Certified Kubernetes Administrator (CKA) – <i>In Progress</i></li>
+</ul>
+
+<h2>SKILLS</h2>
+<ul>
+    <li>Kubernetes, Github Actions, Docker, Terraform, Python, Communication, Leadership</li>
+</ul>
+
+<h2>LANGUAGES</h2>
+<ul>
+    <li>English, French, Spanish, Swahili (basic)</li>
+</ul>
+
+<h2>VOLUNTEER WORK</h2>
+<ul>
+    <li>DevOps Days Nairobi: on-site volunteer to assist with day events – <i>June 2024</i></li>
+    <li>HU Center for Sickle Cell Disease: Designed informational pamphlets – <i>Sept 2020</i></li>
+</ul>
+
+</body>
+</html>
